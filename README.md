@@ -194,7 +194,7 @@ This work builds on the following excellent contributions.
 - **DeepSpeed** — ZeRO: Memory Optimizations Toward Training Trillion
   Parameter Models (Rajbhandari et al., SC 2020)
 
-## Contact
+## 🤝 Contact
 
 If you have any questions, please feel free to open an issue or contact
 us at linyuli@stu.pku.edu.cn.
