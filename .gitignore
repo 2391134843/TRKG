@@ -1,0 +1,63 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+.Python
+.installed.cfg
+pip-wheel-metadata/
+
+# ===== Virtual environments =====
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# ===== Editor / IDE =====
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===== TRKG runtime artefacts (created on demand) =====
+checkpoint/
+candidates/
+logs/
+
+# ===== Common ML artefacts =====
+wandb/
+runs/
+events.out.tfevents.*
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npy
+*.npz
+*.h5
+*.tfrecord
+*.parquet
+
+# ===== Logs / cache =====
+*.log
+.cache/
+.huggingface/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ===== Notebook checkpoints =====
+.ipynb_checkpoints/
+
+# ===== OS noise =====
+*.bak
+*.tmp

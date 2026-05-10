@@ -1,0 +1,13 @@
+{
+  "contraindication": "contraindication: drug should not be used in patients with this condition due to safety risks.",
+  "disease_disease": "disease_disease association: two diseases are known to be related.",
+  "disease_phenotype_negative": "disease_phenotype_negative: disease is associated with the absence of this phenotype.",
+  "disease_phenotype_positive": "disease_phenotype_positive: disease is associated with the presence of this phenotype.",
+  "disease_protein": "disease_protein: disease implicates this gene/protein.",
+  "drug_drug": "drug_drug interaction: two drugs are known to interact.",
+  "drug_effect": "drug_effect: drug is known to produce this clinical effect.",
+  "drug_protein": "drug_protein: drug targets this gene/protein.",
+  "exposure_disease": "exposure_disease: exposure is associated with this disease.",
+  "indication": "indication: drug is clinically indicated for the treatment of disease.",
+  "off-label use": "off-label use: drug is sometimes used clinically for an indication outside of its approved label."
+}
